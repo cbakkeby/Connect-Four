@@ -1,10 +1,8 @@
 /*
- Name: Chase Bakkeby
- ID: 604831840
+ Author: Chase Bakkeby
  Course: PIC 20A
- Prof: Ernest Ryu
+ Professor: Ernest Ryu
  TA: Andrew Krieger
- Collaborators: Andrew Krieger
  Date: 11/14/18
  Assignment: Connect Four GUI
 */
